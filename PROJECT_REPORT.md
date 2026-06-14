@@ -31,7 +31,7 @@
 **Course Code: BCSP064**
 
 ### Student Details
-- **Name:** Harsh Kumar
+- **Name:** Vibhanshu Vaibhav
 - **Enrollment No:** [Your Enrollment Number]
 - **Study Center:** [Your Study Center Code]
 
@@ -3321,7 +3321,7 @@ This project would not have been possible without the collective support and con
 
 **Project completed on:** June 30, 2024
 
-**Student:** Harsh Kumar
+**Student:** Vibhanshu Vaibhav
 
 **Enrollment No:** [Your Enrollment Number]
 
