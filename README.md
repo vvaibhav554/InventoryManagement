@@ -2,7 +2,7 @@
 
 A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies.
 
-🔗 **Live Demo:** [View Live Web Application](https://inventorymanagement-d9zm.onrender.com/)
+🔗 **Live Application:** [Visit the Application](https://inventorymanagement-d9zm.onrender.com/)
 
 ## Screenshots
 
