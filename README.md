@@ -2,6 +2,17 @@
 
 A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies. This project is designed for IGNOU BCSP064 (BCA) project submission.
 
+## Screenshots
+
+### Landing Page
+![Landing Page](docs/screenshots/landing_page.png)
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Items Management
+![Items List](docs/screenshots/items.png)
+
 ## Features
 
 ### Core Features
