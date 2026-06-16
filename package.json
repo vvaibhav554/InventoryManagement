@@ -1,7 +1,7 @@
 {
   "name": "inventory-management-system",
   "version": "1.0.0",
-  "description": "Complete Inventory Management System for IGNOU BCSP064 Project",
+  "description": "Complete Inventory Management System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -1,6 +1,6 @@
 # INVENTORY MANAGEMENT SYSTEM
 
-## A Complete Project Report for IGNOU BCSP064 (BCA)
+## A Complete Project Report
 
 ---
 
@@ -28,7 +28,6 @@
 
 ### Course
 **BCA (Bachelor of Computer Applications)**
-**Course Code: BCSP064**
 
 ### Student Details
 - **Name:** Vibhanshu Vaibhav
@@ -1998,7 +1997,7 @@ The Inventory Management System project represents a successful implementation o
 - **Future Readiness:** Scalable and extensible architecture
 - **Project Management:** Professional approach following SDLC methodology
 
-The project not only meets all the requirements for the IGNOU BCSP064 course but also provides a practical solution that can be deployed in real business environments. The successful completion of this project demonstrates the ability to analyze business problems, design effective solutions, and implement them using modern technologies and best practices.
+This project provides a practical solution that can be deployed in real business environments. The successful completion of this project demonstrates the ability to analyze business problems, design effective solutions, and implement them using modern technologies and best practices.
 
 ---
 
@@ -2501,20 +2500,6 @@ The future development will be guided by user feedback, technological advancemen
 24. **MongoDB Atlas Documentation. (2023).** *Cloud Database Service*. MongoDB Inc.
     - Reference for cloud database deployment
     - Guide for production environment setup
-
-### 11.6 Course Materials and Academic Resources
-
-25. **IGNOU. (2023).** *BCA Programme Guide*. Indira Gandhi National Open University.
-    - Course curriculum and guidelines
-    - Reference for project requirements
-
-26. **IGNOU. (2023).** *BCSP064 Project Guidelines*. Indira Gandhi National Open University.
-    - Project implementation guidelines
-    - Reference for project structure and format
-
-27. **IGNOU. (2023).** *Software Engineering Course Materials*. Indira Gandhi National Open University.
-    - Software engineering principles
-    - Reference for SDLC implementation
 
 ### 11.7 Industry Best Practices
 
@@ -3295,10 +3280,6 @@ I would like to express my sincere gratitude to everyone who contributed to the 
 - For providing technical expertise and constructive feedback
 - For encouraging me to overcome challenges and achieve excellence
 
-**IGNOU Faculty:**
-- For providing quality education and knowledge
-- For their support and encouragement during the project development
-- For the comprehensive course materials and resources
 
 **Family and Friends:**
 - For their unwavering support and understanding during the development process
@@ -3326,5 +3307,3 @@ This project would not have been possible without the collective support and con
 **Enrollment No:** [Your Enrollment Number]
 
 **Course:** BCA (Bachelor of Computer Applications)
-
-**Course Code:** BCSP064
