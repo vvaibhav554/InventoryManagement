@@ -1,6 +1,8 @@
 # Inventory Management System
 
-A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies. 
+A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies. This project is designed for IGNOU BCSP064 (BCA) project submission.
+
+🔗 **Live Demo:** [View Live Web Application](https://YOUR-APP-NAME.onrender.com)
 
 ## Screenshots
 
