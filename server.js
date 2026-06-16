@@ -9,6 +9,9 @@ require('dotenv').config();
 
 const app = express();
 
+// Trust proxy is required for rate limiting when deployed on hosting services like Render
+app.set('trust proxy', 1);
+
 app.use(cors());
 app.use(express.json());
 
