@@ -1,6 +1,6 @@
 # Inventory Management System
 
-A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies. This project is designed for IGNOU BCSP064 (BCA) project submission.
+A complete web-based inventory management system built with Node.js, Express, MongoDB, and modern frontend technologies. 
 
 ## Screenshots
 
@@ -225,10 +225,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- IGNOU BCSP064 Project Guidelines
 - Zoho Inventory for UI/UX inspiration
 - Modern web development best practices
 
 ## Support
 
-For any issues or questions, please create an issue in the repository or contact the development team.
+For any issues or questions, please create an issue in the repository or contact me at vaibhavvoff@gmail.com
